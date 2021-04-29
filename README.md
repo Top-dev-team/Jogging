@@ -9,4 +9,4 @@ Softking:
 I created a new branch 'softking_branch'. I'll tell you the way anytime if you want!"
 
 Minato change the readme.
-Minato, Minato, Minato
+Minato, Minato, Minato      ALLLLLLL
