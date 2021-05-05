@@ -13,3 +13,5 @@ Please change something in readme.md file and commit separately!!!
 
 
 Softking229, Softking229, Softking229,
+
+I didn't know how to use git command exactly. Now I know it.
